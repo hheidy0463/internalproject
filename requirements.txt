@@ -1,0 +1,39 @@
+# Core ML libraries
+torch>=2.0.0
+torchvision
+torchaudio
+
+# Diffusion models
+diffusers>=0.34.0
+transformers>=4.53.0
+accelerate>=1.9.0
+safetensors>=0.5.0
+xformers
+
+# LoRA and PEFT
+peft>=0.8.0
+
+# Evaluation metrics
+clip-by-openai
+torchmetrics
+pytorch-fid
+
+# Data handling
+datasets
+albumentations
+opencv-python
+
+# Utilities
+Pillow>=11.0.0
+numpy
+tqdm
+matplotlib
+seaborn
+
+# Jupyter
+jupyter
+ipykernel
+ipywidgets
+
+# API
+openai
