@@ -37,3 +37,4 @@ ipywidgets
 
 # API
 openai
+requests
